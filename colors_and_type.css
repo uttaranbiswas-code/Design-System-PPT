@@ -1,0 +1,243 @@
+/* ============================================================
+   THINK41 DESIGN SYSTEM — Type & Color Foundations
+   Derived from "[MASTER] Think41 - Overview and Portfolio.pptx"
+   Brand: AI-native engineering company. Bangalore, India. Est. 2024.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap');
+
+:root {
+
+  /* ---------- BRAND COLORS ---------- */
+
+  /* Primary blue — Think41's signature.
+     Sourced from the master deck — used for headings, nav chip, dividers. */
+  --t41-blue:        #0060C7;  /* PRIMARY */
+  --t41-blue-deep:   #003D82;  /* darker accent — case study label bars */
+  --t41-blue-mid:    #0C57D3;  /* slight variant used in heading runs */
+  --t41-blue-2:      #0D5CDF;  /* another variant — keep as alias */
+
+  /* Logo gradient (the "A" mark) */
+  --t41-cyan:        #3DBEFE;  /* top of the mark */
+  --t41-violet:      #6B3FE4;  /* bottom of the mark */
+  --t41-mark-grad:   linear-gradient(180deg, #3DBEFE 0%, #3F5DF4 45%, #6B3FE4 100%);
+
+  /* Tints — pale blues for backgrounds, soft chips, dividers */
+  --t41-blue-50:     #EFF5FE;  /* very pale wash */
+  --t41-blue-100:    #C9DAF8;  /* pale */
+  --t41-blue-200:    #ACCAE9;  /* light */
+  --t41-blue-300:    #B7CFE9;  /* light variant */
+
+  /* ---------- NEUTRALS (Tailwind gray scale — matches deck) ---------- */
+  --gray-50:   #F9FAFB;
+  --gray-100:  #F3F4F6;  /* used heavily in deck cards/bgs */
+  --gray-200:  #E5E7EB;  /* borders */
+  --gray-300:  #D1D5DB;  /* heavier borders */
+  --gray-400:  #9CA3AF;
+  --gray-500:  #6B7280;  /* secondary text */
+  --gray-600:  #4B5563;
+  --gray-700:  #374151;  /* body text — dominant in deck */
+  --gray-800:  #1F2937;
+  --gray-900:  #111827;
+
+  --black:     #1A1A1A;  /* near-black used in deck */
+  --white:     #FFFFFF;
+
+  /* ---------- SEMANTIC ---------- */
+  --bg:           var(--white);
+  --bg-soft:      var(--gray-100);
+  --bg-tint:      var(--t41-blue-50);
+  --fg:           var(--black);
+  --fg-2:         var(--gray-700);     /* body */
+  --fg-3:         var(--gray-500);     /* secondary */
+  --fg-4:         var(--gray-400);     /* tertiary / hint */
+  --rule:         var(--gray-200);
+  --rule-strong:  var(--gray-300);
+
+  --accent:        var(--t41-blue);
+  --accent-deep:   var(--t41-blue-deep);
+  --accent-tint:   var(--t41-blue-100);
+  --link:          var(--t41-blue);
+
+  /* Status colors — restrained, not loud */
+  --positive:    #16A34A;
+  --warning:     #D97706;
+  --negative:    #DC2626;
+
+  /* ---------- TYPE ---------- */
+  /* Open Sans is the brand face (per source deck override).
+     Default deck used Roboto; we standardize on Open Sans system-wide. */
+  --font-sans:    'Open Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-display: 'Open Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-mono:    ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace;
+
+  /* Type scale — slide-first (1920×1080). pt × 1.333 = px */
+  --t-hero:     clamp(72px, 7.5vw, 144px);   /* hero / cover title */
+  --t-display:  clamp(48px, 4.2vw, 80px);    /* section title */
+  --t-h1:       clamp(36px, 2.8vw, 54px);    /* slide title */
+  --t-h2:       clamp(28px, 2.0vw, 40px);    /* subhead */
+  --t-h3:       clamp(22px, 1.5vw, 28px);    /* tile header */
+  --t-lead:     clamp(20px, 1.4vw, 26px);    /* lede */
+  --t-body:     clamp(16px, 1.1vw, 22px);    /* body */
+  --t-small:    clamp(13px, 0.85vw, 16px);   /* footnote */
+  --t-micro:    clamp(11px, 0.7vw, 13px);    /* eyebrow / label */
+
+  /* Weights — Open Sans supports 300–800 */
+  --w-light:     300;
+  --w-regular:   400;
+  --w-medium:    500;
+  --w-semibold:  600;
+  --w-bold:      700;
+  --w-extrabold: 800;
+
+  /* Leading */
+  --lh-tight:   1.05;
+  --lh-snug:    1.2;
+  --lh-normal:  1.5;
+
+  /* Tracking */
+  --tr-tight:    -0.01em;
+  --tr-normal:   0;
+  --tr-wide:     0.02em;
+  --tr-eyebrow:  0.12em;
+
+  /* ---------- SPACING (8pt) ---------- */
+  --s-1:  4px;
+  --s-2:  8px;
+  --s-3:  12px;
+  --s-4:  16px;
+  --s-5:  24px;
+  --s-6:  32px;
+  --s-7:  48px;
+  --s-8:  64px;
+  --s-9:  96px;
+  --s-10: 128px;
+
+  /* Slide layout @ 1920×1080 — matches deck convention */
+  --slide-w:       1920px;
+  --slide-h:       1080px;
+  --slide-margin:  80px;     /* outer left/right */
+  --slide-top:     140px;    /* below nav strip */
+  --slide-bottom:  64px;
+  --slide-gutter:  32px;
+
+  /* ---------- RADII ---------- */
+  --r-none: 0px;
+  --r-sm:   4px;
+  --r-md:   8px;     /* default — Tailwind 'lg' */
+  --r-lg:   12px;
+  --r-xl:   16px;
+  --r-2xl:  20px;
+  --r-pill: 999px;
+
+  /* ---------- SHADOWS ---------- */
+  --shadow-1: 0 1px 2px rgba(17,24,39,0.06), 0 1px 1px rgba(17,24,39,0.04);
+  --shadow-2: 0 4px 12px rgba(17,24,39,0.08), 0 1px 2px rgba(17,24,39,0.04);
+  --shadow-3: 0 12px 32px rgba(17,24,39,0.10), 0 2px 6px rgba(17,24,39,0.05);
+  --ring:     0 0 0 1px var(--rule);
+  --ring-strong: 0 0 0 1px var(--rule-strong);
+
+  /* ---------- MOTION ---------- */
+  --ease-standard: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out:      cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast:      120ms;
+  --dur-base:      200ms;
+  --dur-slow:      400ms;
+}
+
+/* ============================================================
+   ELEMENT STYLES
+   ============================================================ */
+
+* { box-sizing: border-box; }
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg-2);
+  font-family: var(--font-sans);
+  font-size: var(--t-body);
+  line-height: var(--lh-normal);
+  font-weight: var(--w-regular);
+}
+
+/* Headings — Open Sans, weight contrast carries hierarchy */
+h1, .h1 {
+  font-family: var(--font-display);
+  font-size: var(--t-h1);
+  font-weight: var(--w-bold);
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tr-tight);
+  color: var(--t41-blue);
+  margin: 0;
+  text-wrap: balance;
+}
+
+h2, .h2 {
+  font-family: var(--font-display);
+  font-size: var(--t-h2);
+  font-weight: var(--w-bold);
+  line-height: var(--lh-snug);
+  color: var(--t41-blue);
+  margin: 0;
+  text-wrap: balance;
+}
+
+h3, .h3 {
+  font-family: var(--font-sans);
+  font-size: var(--t-h3);
+  font-weight: var(--w-bold);
+  line-height: var(--lh-snug);
+  color: var(--t41-blue);
+  margin: 0;
+}
+
+.display     { font-family: var(--font-display); font-size: var(--t-display); font-weight: var(--w-bold); line-height: var(--lh-tight); letter-spacing: var(--tr-tight); color: var(--t41-blue); }
+.display-xl,
+.hero        { font-family: var(--font-display); font-size: var(--t-hero); font-weight: var(--w-extrabold); line-height: var(--lh-tight); letter-spacing: var(--tr-tight); color: var(--black); }
+.lead        { font-family: var(--font-sans); font-size: var(--t-lead); line-height: var(--lh-normal); color: var(--fg-2); font-weight: var(--w-regular); }
+
+p, .body  { font-size: var(--t-body); line-height: var(--lh-normal); color: var(--fg-2); margin: 0; text-wrap: pretty; }
+.small    { font-size: var(--t-small); line-height: var(--lh-normal); color: var(--fg-3); }
+.micro    { font-size: var(--t-micro); line-height: var(--lh-normal); color: var(--fg-3); }
+
+/* Eyebrow — small uppercase label common in deck (gray, light, tracked) */
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: var(--t-micro);
+  font-weight: var(--w-semibold);
+  letter-spacing: var(--tr-eyebrow);
+  text-transform: uppercase;
+  color: var(--fg-3);
+}
+
+/* Inline accent */
+.accent          { color: var(--t41-blue); }
+.accent-deep     { color: var(--t41-blue-deep); }
+
+/* Code / mono */
+code, .mono, kbd {
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+}
+
+/* Rules */
+hr, .rule {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: var(--s-5) 0;
+}
+.rule-blue { border-top: 2px solid var(--t41-blue); }
+
+/* Selection */
+::selection { background: var(--t41-blue); color: var(--white); }
+
+/* Strong — bolder than body, blue on light */
+strong, .strong { font-weight: var(--w-semibold); color: var(--black); }
+
+/* Dark surface overrides */
+.on-blue, .on-blue * { color: var(--white); }
+.on-blue { background: var(--t41-blue); }
+.on-blue .eyebrow,
+.on-blue .small { color: rgba(255,255,255,0.78); }
