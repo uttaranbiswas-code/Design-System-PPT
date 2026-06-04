@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Think41 — L1 Intro to Think41</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../colors_and_type.css">
+<link rel="stylesheet" href="../slides/slide-frame.css">
+<link rel="stylesheet" href="shared.css">
+<style>deck-stage:not(:defined){visibility:hidden}</style>
+</head><body>
+<deck-stage width="1920" height="1080">
+
+<!-- 01 COVER — Fixed -->
+<section class="t41-slide tint" data-label="01 Cover">
+  <div class="slide-badge locked">Fixed</div>
+  <div style="position:absolute;inset:0;background-image:linear-gradient(rgba(0,96,199,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,96,199,.05) 1px,transparent 1px);background-size:80px 80px;"></div>
+  <div style="position:absolute;top:60px;left:80px;"><img src="../assets/think41-logo-cropped.png" alt="Think41" style="height:80px;"></div>
+  <div style="position:absolute;top:80px;right:80px;text-align:right;"><div style="font-size:14px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gray-500);margin-bottom:6px;">L1 · Intro to Think41</div><div style="font-size:20px;font-weight:700;color:var(--t41-blue);">www.think41.com</div></div>
+  <div style="position:absolute;left:80px;right:80px;top:50%;transform:translateY(-50%);">
+    <div class="slide-eyebrow" style="margin-bottom:28px;">Driving AI-native Transformations</div>
+    <h1 style="font-size:128px;font-weight:800;line-height:1;letter-spacing:-.025em;color:var(--black);margin:0;">Hello. We're <span style="color:var(--t41-blue);">Think<sup style="font-size:.55em;vertical-align:super;">41</sup></span>.</h1>
+    <p style="font-size:28px;line-height:1.4;color:var(--gray-700);margin:40px 0 0;max-width:1100px;">An AI-native engineering firm helping enterprises move from experimentation to real-world impact — from strategy to agent implementation to scale.</p>
+  </div>
+  <div style="position:absolute;left:80px;right:80px;bottom:80px;display:flex;gap:48px;align-items:center;">
+    <div style="font-size:13px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--gray-500);">Trusted by</div>
+    <img src="../assets/clients/honeywell.png" style="height:32px;opacity:.8;">
+    <img src="../assets/clients/mastercard.png" style="height:42px;opacity:.85;">
+    <img src="../assets/clients/atomicwork.png" style="height:26px;opacity:.8;">
+    <img src="../assets/clients/deloitte.png" style="height:22px;opacity:.8;">
+  </div>
+</section>
+
+<!-- 02 INTRO — Dynamic: CLIENT_NAME, DATE -->
+<section class="t41-slide" data-label="02 Intro">
+  <div class="slide-badge dynamic">Dynamic · fill client info</div>
+  <div class="slide-nav"><span class="item active">Intro</span><span class="item">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>02</b> / 14</span></div>
+  <div class="slide-pad" style="top:140px;">
+    <div class="intro-split">
+      <div>
+        <div class="slide-eyebrow">About Think41</div>
+        <h1 class="slide-title" style="font-size:40px;max-width:700px;">AI-native engineering. <span style="color:var(--black);">Built for enterprise scale.</span></h1>
+        <p style="font-size:20px;color:var(--gray-700);line-height:1.5;margin:20px 0 0;max-width:700px;">Founded by the team that scaled HashedIn from ~600 to 3,500+ engineers inside Deloitte. Now building the GenAI-specialized firm for the next decade.</p>
+        <div class="intro-stats">
+          <div class="intro-stat"><div class="isn">120+</div><div class="isl">Team members</div></div>
+          <div class="intro-stat"><div class="isn">20+</div><div class="isl">AI implementations</div></div>
+          <div class="intro-stat"><div class="isn">3,500+</div><div class="isl">HashedIn at Deloitte</div></div>
+          <div class="intro-stat"><div class="isn">2024</div><div class="isl">Est. Bangalore</div></div>
+        </div>
+      </div>
+      <div class="intro-div"></div>
+      <div style="display:flex;flex-direction:column;gap:28px;">
+        <div>
+          <div style="font-size:14px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gray-500);margin-bottom:8px;">Prepared for</div>
+          <div style="font-size:64px;font-weight:800;color:var(--black);line-height:1;letter-spacing:-.02em;"><span class="ph">[CLIENT_NAME]</span></div>
+        </div>
+        <div>
+          <div style="font-size:14px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gray-500);margin-bottom:8px;">Date</div>
+          <div style="font-size:36px;font-weight:700;color:var(--gray-700);"><span class="ph">[DATE]</span></div>
+        </div>
+        <div style="padding:24px;background:var(--gray-50);border-left:4px solid var(--t41-blue);border-radius:6px;">
+          <div style="font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:10px;">This presentation covers</div>
+          <ul style="margin:0;padding:0;list-style:none;display:grid;gap:6px;font-size:17px;color:var(--gray-700);">
+            <li style="padding-left:18px;position:relative;"><span style="position:absolute;left:0;top:8px;width:6px;height:6px;border-radius:50%;background:var(--t41-blue);"></span>Our four capability areas</li>
+            <li style="padding-left:18px;position:relative;"><span style="position:absolute;left:0;top:8px;width:6px;height:6px;border-radius:50%;background:var(--t41-blue);"></span>Relevant case studies</li>
+            <li style="padding-left:18px;position:relative;"><span style="position:absolute;left:0;top:8px;width:6px;height:6px;border-radius:50%;background:var(--t41-blue);"></span>How we engage</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Confidential</span></div>
+</section>
+
+<!-- 03 CAPABILITY 1 — Headings locked · Cases dynamic -->
+<section class="t41-slide" data-label="03 AI for Knowledge Workers">
+  <div class="slide-badge mixed">Headings locked · Cases dynamic</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item active">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>03</b> / 14</span></div>
+  <div class="slide-pad" style="top:170px;">
+    <div class="slide-eyebrow" style="margin-bottom:16px;">AI Assists · Capability 01</div>
+    <div class="cap-grid">
+      <div class="cap-left">
+        <h1 class="slide-title">AI for Knowledge Workers</h1>
+        <p class="cap-desc">Transform how teams think, decide, and operate with AI. We connect enterprise AI to your business context — custom skills, guardrails, and change management that drives real adoption.</p>
+        <ul class="cap-bullets">
+          <li class="cap-bullet">Connector development on enterprise AI platforms</li>
+          <li class="cap-bullet">Custom skills, guardrails &amp; enterprise context</li>
+          <li class="cap-bullet">Evals, observability &amp; org-wide training</li>
+          <li class="cap-bullet">Change management for AI adoption</li>
+        </ul>
+        <div style="padding:16px 20px;background:var(--t41-blue-50);border-left:4px solid var(--t41-blue);border-radius:6px;font-size:19px;font-weight:700;color:var(--t41-blue);margin-top:auto;">Decisions at 10× speed</div>
+      </div>
+      <div class="cap-right">
+        <div class="cap-right-label">Case Studies</div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Philips MRI · Healthcare</div><div class="cs-title">Life Cycle Engineering Copilot</div><div class="cs-metric">Lifecycle changes: weeks → days</div></div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">SpotDraft · Legal Tech</div><div class="cs-title">Document AI &amp; Contract Intelligence</div><div class="cs-metric">Contract review: hours → minutes</div></div>
+        <div class="cs-slot open"><div class="cs-title">[Select Case Study 3]</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Capability 01 of 04</span></div>
+</section>
+
+<!-- 04 CAPABILITY 2 — Headings locked · Cases dynamic -->
+<section class="t41-slide" data-label="04 Modernization & Harness Eng">
+  <div class="slide-badge mixed">Headings locked · Cases dynamic</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item active">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>04</b> / 14</span></div>
+  <div class="slide-pad" style="top:170px;">
+    <div class="slide-eyebrow" style="margin-bottom:16px;">AI Accelerates · Capability 02</div>
+    <div class="cap-grid">
+      <div class="cap-left">
+        <h1 class="slide-title">Modernization &amp; Harness Engineering</h1>
+        <p class="cap-desc">AI embedded into engineering and product delivery pipelines. Modernize legacy into AI-native applications and improve velocity with harness engineering for coding workflows.</p>
+        <ul class="cap-bullets">
+          <li class="cap-bullet">Legacy → AI-native application modernization</li>
+          <li class="cap-bullet">AI-assisted development velocity</li>
+          <li class="cap-bullet">Context management &amp; MCP integrations</li>
+          <li class="cap-bullet">Agent skills for coding environments</li>
+        </ul>
+        <div style="padding:16px 20px;background:var(--t41-blue-50);border-left:4px solid var(--t41-blue);border-radius:6px;font-size:19px;font-weight:700;color:var(--t41-blue);margin-top:auto;">Build cycles cut 40%+</div>
+      </div>
+      <div class="cap-right">
+        <div class="cap-right-label">Case Studies</div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Entero · Pharma Distribution</div><div class="cs-title">Legacy Chemist Platform Modernization</div><div class="cs-metric">Unified app + WhatsApp workflows</div></div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Harvey · Legal Tech</div><div class="cs-title">Bi-directional Legal System Integrations</div><div class="cs-metric">Seamless billing data flow</div></div>
+        <div class="cs-slot open"><div class="cs-title">[Select Case Study 3]</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Capability 02 of 04</span></div>
+</section>
+
+<!-- 05 CAPABILITY 3 — Headings locked · Cases dynamic -->
+<section class="t41-slide" data-label="05 Agentic AI Systems">
+  <div class="slide-badge mixed">Headings locked · Cases dynamic</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item active">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>05</b> / 14</span></div>
+  <div class="slide-pad" style="top:170px;">
+    <div class="slide-eyebrow" style="margin-bottom:16px;">AI with Autonomy · Capability 03</div>
+    <div class="cap-grid">
+      <div class="cap-left">
+        <h1 class="slide-title">Agentic AI Systems</h1>
+        <p class="cap-desc">Build agents that execute full business workflows end-to-end. Multi-agent orchestration at enterprise scale — voice, text, structured data — in regulated environments.</p>
+        <ul class="cap-bullets">
+          <li class="cap-bullet">Production multi-agent orchestration</li>
+          <li class="cap-bullet">Voice AI &amp; real-time speech pipelines</li>
+          <li class="cap-bullet">MCPs, Responses API, function calling</li>
+          <li class="cap-bullet">Observability, evals &amp; compliance guardrails</li>
+        </ul>
+        <div style="padding:16px 20px;background:var(--t41-blue-50);border-left:4px solid var(--t41-blue);border-radius:6px;font-size:19px;font-weight:700;color:var(--t41-blue);margin-top:auto;">Operations on autopilot</div>
+      </div>
+      <div class="cap-right">
+        <div class="cap-right-label">Case Studies</div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Top-5 Global Bank · BFSI</div><div class="cs-title">Voice Multi-Agent System in Banking</div><div class="cs-metric">~40% faster client request turnaround</div></div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Honeywell CLSS · Industrial</div><div class="cs-title">Voice AI Platform Navigation Agent</div><div class="cs-metric">35% L1 support deflection (pre-prod)</div></div>
+        <div class="cs-slot open"><div class="cs-title">[Select Case Study 3]</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Capability 03 of 04</span></div>
+</section>
+
+<!-- 06 CAPABILITY 4 — Headings locked · Cases dynamic -->
+<section class="t41-slide" data-label="06 AI for GCC & Product Teams">
+  <div class="slide-badge mixed">Headings locked · Cases dynamic</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item active">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>06</b> / 14</span></div>
+  <div class="slide-pad" style="top:170px;">
+    <div class="slide-eyebrow" style="margin-bottom:16px;">AI Talent &amp; Scale · Capability 04</div>
+    <div class="cap-grid">
+      <div class="cap-left">
+        <h1 class="slide-title">AI for GCC &amp; Product Teams</h1>
+        <p class="cap-desc">Enable Global Capability Centers and product teams to build AI-native capabilities at scale — from team setup to production delivery. Powered by Boot41 Academy and pod-based execution.</p>
+        <ul class="cap-bullets">
+          <li class="cap-bullet">GCC AI capability building &amp; team setup</li>
+          <li class="cap-bullet">Boot41 Academy — 40% hiring conversion rate</li>
+          <li class="cap-bullet">Right-to-hire pod model</li>
+          <li class="cap-bullet">AI-first delivery culture &amp; methodology</li>
+        </ul>
+        <div style="padding:16px 20px;background:var(--t41-blue-50);border-left:4px solid var(--t41-blue);border-radius:6px;font-size:19px;font-weight:700;color:var(--t41-blue);margin-top:auto;">Specialist talent, zero sourcing overhead</div>
+      </div>
+      <div class="cap-right">
+        <div class="cap-right-label">Case Studies</div>
+        <div class="cs-slot filled"><div class="cs-eyebrow">Atomicwork · Deep Tech</div><div class="cs-title">Universal AI Agent — Pod to Production</div><div class="cs-metric">500+ daily active users shipped</div></div>
+        <div class="cs-slot open"><div class="cs-title">[Select Case Study 2]</div></div>
+        <div class="cs-slot open"><div class="cs-title">[Select Case Study 3]</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Capability 04 of 04</span></div>
+</section>
+
+<!-- 07-09 CASE STUDIES — Dynamic -->
+<section class="t41-slide" data-label="07 Case · Philips MRI">
+  <div class="slide-badge dynamic">Dynamic · swap per client</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item active">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>07</b> / 14</span></div>
+  <div class="slide-pad">
+    <div class="slide-eyebrow">AI for Knowledge Workers · Case Study 01</div>
+    <h1 class="slide-title" style="max-width:1700px;">MRI lifecycle changes that took weeks now start <span style="color:var(--black);">already drafted.</span></h1>
+    <p style="font-size:22px;line-height:1.4;color:var(--gray-700);margin:16px 0 0;max-width:1600px;">Philips MRI engineers manually assessed impact, drafted documentation, and coordinated reviewers across PLM and QMS systems — each lifecycle change took weeks.</p>
+    <div style="display:grid;grid-template-columns:540px 1fr;gap:36px;margin-top:40px;flex:1;">
+      <div style="background:var(--t41-blue);color:white;border-radius:12px;padding:36px;display:flex;flex-direction:column;">
+        <div style="font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.7);margin-bottom:14px;">Solution</div>
+        <p style="font-size:22px;line-height:1.4;color:white;margin:0;">Life Cycle Engineering Copilot — ingests a change request, maps PLM/QMS dependencies, drafts compliant documentation, and routes reviewers automatically.</p>
+        <div style="margin-top:auto;padding-top:24px;border-top:1px solid rgba(255,255,255,.25);font-size:36px;font-weight:800;color:white;letter-spacing:-.02em;">Weeks → days</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;">
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">PLM / QMS Integration</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">Bi-directional connectors across product lifecycle and quality management systems.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> No manual reconciliation.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Impact Analysis Agent</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">Maps all downstream dependencies from a single upstream change.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> Blast-radius in seconds.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Compliant Drafting</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">Consistent first draft, every run.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Reviewer Routing</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">Right reviewers, automatically assigned.</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Case Study · Philips MRI · Healthcare</span></div>
+</section>
+
+<section class="t41-slide" data-label="08 Case · Atomicwork">
+  <div class="slide-badge dynamic">Dynamic · swap per client</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item active">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>08</b> / 14</span></div>
+  <div class="slide-pad">
+    <div class="slide-eyebrow">Agentic AI · Case Study 02</div>
+    <h1 class="slide-title" style="max-width:1700px;">500 employees resolving IT issues in Slack — <span style="color:var(--black);">no portal required.</span></h1>
+    <div style="display:grid;grid-template-columns:540px 1fr;gap:36px;margin-top:40px;flex:1;">
+      <div style="background:var(--t41-blue);color:white;border-radius:12px;padding:36px;display:flex;flex-direction:column;">
+        <div style="font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.7);margin-bottom:14px;">Solution</div>
+        <p style="font-size:22px;line-height:1.4;color:white;margin:0;">Universal AI Agent built from PoC to production — screen awareness, voice, natural-language ticketing embedded directly in the Atomicwork platform.</p>
+        <div style="margin-top:auto;padding-top:24px;border-top:1px solid rgba(255,255,255,.25);font-size:36px;font-weight:800;color:white;letter-spacing:-.02em;">500+ daily users</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;">
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Multi-Model Routing</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">Queries routed to best-fit LLM by task type automatically.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> Higher quality per task.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Screen + Voice Context</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">Chrome extension reads active screen; voice captures intent.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> Full context, no form filling.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Zero-Portal Resolution</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">IT tickets raised in plain English via Slack.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Instant Answers</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">Knowledge sub-agent · no human in the loop.</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Case Study · Atomicwork · Deep Tech</span></div>
+</section>
+
+<section class="t41-slide" data-label="09 Case · Honeywell CLSS">
+  <div class="slide-badge dynamic">Dynamic · swap per client</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item active">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>09</b> / 14</span></div>
+  <div class="slide-pad">
+    <div class="slide-eyebrow">Agentic AI · Voice AI · Case Study 03</div>
+    <h1 class="slide-title" style="max-width:1700px;">Voice AI navigates Honeywell's platform <span style="color:var(--black);">like a trained support rep.</span></h1>
+    <div style="display:grid;grid-template-columns:540px 1fr;gap:36px;margin-top:40px;flex:1;">
+      <div style="background:var(--t41-blue);color:white;border-radius:12px;padding:36px;display:flex;flex-direction:column;">
+        <div style="font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.7);margin-bottom:14px;">Solution</div>
+        <p style="font-size:22px;line-height:1.4;color:white;margin:0;">Voice-based AI agent that understands the CLSS data model and navigates the full platform — fielding queries, guiding users, resolving issues autonomously via voice.</p>
+        <div style="margin-top:auto;padding-top:24px;border-top:1px solid rgba(255,255,255,.25);font-size:36px;font-weight:800;color:white;letter-spacing:-.02em;">35% L1 deflection target</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;">
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Real-time Voice Pipeline</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">WebSocket bilingual STT/TTS; turns complete in &lt;2 seconds.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> Natural conversation flow.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Platform Navigation</div><p style="font-size:17px;color:var(--gray-700);margin:0 0 10px;line-height:1.4;">Understands CLSS data model; navigates accounts, alarms, floorplans.</p><p style="font-size:14px;color:var(--gray-500);margin:0;"><strong style="color:var(--black);">Result:</strong> End-to-end without a portal.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Knowledge Sub-Agent</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">Product-usage questions answered autonomously.</p></div>
+        <div style="background:var(--gray-50);border-radius:8px;padding:22px;"><div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:8px;">Status</div><p style="font-size:18px;font-weight:700;color:var(--t41-blue);margin:0;">Pre-production · Honeywell · Industrial</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Case Study · Honeywell CLSS · Industrial</span></div>
+</section>
+
+<!-- 10-11 OPTIONAL CASE STUDY SLOTS — Dynamic -->
+<section class="t41-slide" data-label="10 Optional Case Study Slot">
+  <div class="slide-badge dynamic">Optional · add or remove this slide</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item active">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>10</b> / 14</span></div>
+  <div class="slide-pad" style="justify-content:center;align-items:center;">
+    <div style="text-align:center;max-width:900px;">
+      <div style="font-size:14px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:24px;">Optional Case Study · Slide 10</div>
+      <div style="font-size:88px;font-weight:800;color:var(--rule-strong);line-height:1;letter-spacing:-.03em;margin-bottom:32px;">[CASE_STUDY_4]</div>
+      <p style="font-size:22px;color:var(--gray-500);margin:0 0 32px;">Replace this slide with a case study relevant to your client — or delete it if three is enough.</p>
+      <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+        <span style="background:var(--t41-blue-50);color:var(--t41-blue);padding:8px 18px;border-radius:999px;font-size:14px;font-weight:700;">Philips MRI</span>
+        <span style="background:var(--t41-blue-50);color:var(--t41-blue);padding:8px 18px;border-radius:999px;font-size:14px;font-weight:700;">Atomicwork</span>
+        <span style="background:var(--t41-blue-50);color:var(--t41-blue);padding:8px 18px;border-radius:999px;font-size:14px;font-weight:700;">Mastercard</span>
+        <span style="background:var(--t41-blue-50);color:var(--t41-blue);padding:8px 18px;border-radius:999px;font-size:14px;font-weight:700;">Global Bank</span>
+        <span style="background:var(--t41-blue-50);color:var(--t41-blue);padding:8px 18px;border-radius:999px;font-size:14px;font-weight:700;">Fashion Retailer</span>
+      </div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Optional slide</span></div>
+</section>
+
+<section class="t41-slide" data-label="11 Optional Case Study Slot">
+  <div class="slide-badge dynamic">Optional · add or remove this slide</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item active">Case Studies</span><span class="item">Engagement</span><span class="item">Close</span><span class="num"><b>11</b> / 14</span></div>
+  <div class="slide-pad" style="justify-content:center;align-items:center;">
+    <div style="text-align:center;max-width:900px;">
+      <div style="font-size:14px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--t41-blue);margin-bottom:24px;">Optional Case Study · Slide 11</div>
+      <div style="font-size:88px;font-weight:800;color:var(--rule-strong);line-height:1;letter-spacing:-.03em;margin-bottom:32px;">[CASE_STUDY_5]</div>
+      <p style="font-size:22px;color:var(--gray-500);margin:0;">Replace or delete this slide as needed.</p>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Optional slide</span></div>
+</section>
+
+<!-- 12 ENGAGEMENT MODEL — Locked -->
+<section class="t41-slide" data-label="12 Engagement Model">
+  <div class="slide-badge locked">Mostly locked</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item">Case Studies</span><span class="item active">Engagement</span><span class="item">Close</span><span class="num"><b>12</b> / 14</span></div>
+  <div class="slide-pad">
+    <h1 class="slide-title" style="max-width:1500px;">Three engagement models, <span style="color:var(--black);">matched to where you are.</span></h1>
+    <div class="three-up" style="margin-top:48px;">
+      <div class="eng-card"><div class="eng-card-head" style="background:var(--t41-blue);"><div class="eng-card-num">Model 01</div><h3 class="eng-card-title">Managed Delivery</h3><p class="eng-card-sub">We own it. You get outcomes.</p></div><div class="eng-card-body"><div><div class="eng-field">Best for</div><div class="eng-val">Well-defined projects, predictable timelines.</div></div><div><div class="eng-field">Way of working</div><div class="eng-val">Think41 takes <strong>full responsibility</strong> for delivery, end to end.</div></div><div class="eng-commercial"><strong>Commercial:</strong> Outcome-oriented · Success Fee</div></div></div>
+      <div class="eng-card"><div class="eng-card-head" style="background:var(--t41-blue-deep);"><div class="eng-card-num">Model 02</div><h3 class="eng-card-title">Co-Development</h3><p class="eng-card-sub">Your team + ours.</p></div><div class="eng-card-body"><div><div class="eng-field">Best for</div><div class="eng-val">Product evolution, hands-on collaboration.</div></div><div><div class="eng-field">Way of working</div><div class="eng-val">Dedicated pod <strong>embeds with your team.</strong></div></div><div class="eng-commercial"><strong>Commercial:</strong> Monthly billing on rate card</div></div></div>
+      <div class="eng-card"><div class="eng-card-head" style="background:var(--black);"><div class="eng-card-num">Model 03</div><h3 class="eng-card-title">Accelerate</h3><p class="eng-card-sub">Build capability, then make it yours.</p></div><div class="eng-card-body"><div><div class="eng-field">Best for</div><div class="eng-val">Capability building, scaling AI teams.</div></div><div><div class="eng-field">Way of working</div><div class="eng-val">Engineers embedded; <strong>right-to-hire</strong> after lock-in.</div></div><div class="eng-commercial"><strong>Commercial:</strong> Monthly + transition fee</div></div></div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Engagement Models</span></div>
+</section>
+
+<!-- 13 NEXT STEPS — Locked -->
+<section class="t41-slide" data-label="13 Next Steps">
+  <div class="slide-badge locked">Fixed</div>
+  <div class="slide-nav"><span class="item">Intro</span><span class="item">Capabilities</span><span class="item">Case Studies</span><span class="item">Engagement</span><span class="item active">Close</span><span class="num"><b>13</b> / 14</span></div>
+  <div class="slide-pad">
+    <div class="slide-eyebrow">What happens next</div>
+    <h1 class="slide-title" style="max-width:1500px;">From this call to sprint one <span style="color:var(--black);">in 14 days.</span></h1>
+    <div class="next-steps" style="margin-top:72px;">
+      <div class="next-step"><div class="next-step-num">1</div><h3>Discovery call</h3><p>Understand your priorities, current state, and team structure.</p><div class="ns-when">This week</div></div>
+      <div class="next-step"><div class="next-step-num">2</div><h3>Proposal &amp; scope</h3><p>Scoped engagement proposal with team, timeline, and investment.</p><div class="ns-when">Days 3–7</div></div>
+      <div class="next-step"><div class="next-step-num">3</div><h3>Alignment &amp; sign-off</h3><p>Stakeholder alignment, SOW countersignature, pod assignment.</p><div class="ns-when">Days 8–12</div></div>
+      <div class="next-step cta"><div class="next-step-num">4</div><h3>Sprint 1 kicks off</h3><p>Discovery workshops begin. First deliverables in your hands.</p><div class="ns-when">Day 14</div></div>
+    </div>
+  </div>
+  <div class="slide-footer"><span class="think41-mark">Think<sup>41</sup></span><span>Next Steps</span></div>
+</section>
+
+<!-- 14 LEADERSHIP & CLOSING — Fixed -->
+<section class="t41-slide" data-label="14 Closing">
+  <div class="slide-badge locked">Fixed</div>
+  <div style="position:absolute;inset:0;display:grid;grid-template-columns:5fr 7fr;">
+    <div style="background:var(--t41-blue);padding:80px;color:white;display:flex;flex-direction:column;justify-content:space-between;">
+      <div style="display:flex;align-items:center;gap:16px;"><div style="width:64px;height:64px;border-radius:14px;background:white;display:grid;place-items:center;"><img src="../assets/think41-mark.png" alt="" style="width:56px;height:56px;object-fit:cover;border-radius:12px;"></div><span style="font-size:38px;font-weight:800;color:white;letter-spacing:-.01em;">Think<sup style="color:#B7CFE9;font-size:.58em;font-weight:800;">41</sup></span></div>
+      <div><div style="font-size:18px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:rgba(255,255,255,.65);margin-bottom:16px;">Thank you</div><h1 style="font-size:112px;font-weight:800;line-height:.95;color:white;letter-spacing:-.025em;margin:0;">Let's<br>talk.</h1></div>
+      <div style="font-size:16px;color:rgba(255,255,255,.7);">Bangalore · Est. 2024 · 120+ team</div>
+    </div>
+    <div style="background:white;padding:80px;display:flex;flex-direction:column;justify-content:center;gap:32px;">
+      <div style="font-size:14px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gray-500);display:flex;align-items:center;gap:12px;"><span style="display:inline-block;width:32px;height:2px;background:var(--t41-blue);"></span>Get in touch</div>
+      <div style="display:grid;gap:24px;">
+        <div><div style="font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gray-500);margin-bottom:8px;">Email</div><div style="font-size:38px;font-weight:700;color:var(--black);">hello@think41.com</div></div>
+        <div><div style="font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--gray-500);margin-bottom:8px;">Website</div><div style="font-size:38px;font-weight:700;color:var(--black);">www.think41.com</div></div>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:16px;padding-top:24px;border-top:1px solid var(--rule);">
+        <div style="padding:18px;border-radius:8px;background:var(--gray-50);text-align:center;"><div style="font-size:28px;font-weight:800;color:var(--t41-blue);">120+</div><div style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gray-500);margin-top:4px;">Team</div></div>
+        <div style="padding:18px;border-radius:8px;background:var(--gray-50);text-align:center;"><div style="font-size:28px;font-weight:800;color:var(--t41-blue);">20+</div><div style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gray-500);margin-top:4px;">AI Projects</div></div>
+        <div style="padding:18px;border-radius:8px;background:var(--gray-50);text-align:center;"><div style="font-size:28px;font-weight:800;color:var(--t41-blue);">3+</div><div style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gray-500);margin-top:4px;">Industries</div></div>
+        <div style="padding:18px;border-radius:8px;background:var(--gray-50);text-align:center;"><div style="font-size:28px;font-weight:800;color:var(--t41-blue);">2024</div><div style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gray-500);margin-top:4px;">Founded</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</deck-stage>
+<script src="deck-stage.js"></script>
+</body></html>
