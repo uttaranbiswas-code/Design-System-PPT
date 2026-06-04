@@ -1,0 +1,1434 @@
+
+========= SLIDE 1 =========
+Driving AI-native Transformations
+Website:
+www.think41.com
+Empowering Enterprises Globally
+AI in Action for Energy & Operations
+
+========= SLIDE 2 =========
+01
+Think41 is a AI-native engineering company that helps enterprises and GCCs adopt AI at scale.
+Engineering AI agents and enabling product teams to embed them into enterprise workflows.
+Reimagining agile delivery for the AI era through proprietary tools, processes, and partnerships
+Talent & Delivery
+Services &
+Products
+P
+od delivery model
+AI delivery pods leveraging best practices and tools to accelerate outcomes
+.
+Boot 41 Academy
+The most rigorous AI bootcamp, with a 40% conversion rate
+From scaling HashedIn by Deloitte to a 3500 member team , we are now building :
+Think41- a GenAI-specialized firm.
+Uniquely positioned to partner with enterprise clients and product teams on AI innovation.
+Clients &
+Partnerships
+We are an
+AI-first engineering firm
+built to push enterprises beyond experimentation into real-world impact
+Focused on Enterprise AI
+From strategy → Agent Implementation → Scale
+AI Native Mindset
+Teams built to think and deliver in the language of GenAI.
+Culture of
+extreme ownership
+and high performance
+Bangalore, India
+Based
+2024
+Year founded
+12
+0+
+Team Members
+20
++
+AI Implementations
+Specialized AI engineering partner
+, not a generic IT vendor
+14%
+45
+%
+Agentic AI Systems
+A Top-5
+Global Bank
+Partnerships:
+41%
+AAI
+Modernization and Harness Engg
+AI for Knowledge Workers
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 3 =========
+AI Assists
+AI FOR
+KNOWLEDGE
+WORKERS
+Transform how teams think, decide, and operate with AI
+Drive org-wide AI adoption with change management
+Redesign workflows for AI-native operations
+Decisions at 10x speed
+AI Accelerates
+MODERNIZATION &
+HARNESS ENGINEERING
+Modernize legacy applications into AI Native Applications
+Improve engineering velocity with AI-assisted development workflows
+Support real-world transformations across stacks (e.g.platform rebuilds with AI Features)
+Build cycles cut 40%+
+AI with Autonomy
+AGENTIC AI
+SYSTEMS
+Build agents that execute full business workflows
+Automate complex operations end-to-end
+Multi-agent orchestration at enterprise scale
+Operations on autopilot
+02
+What Think41 delivers: Three service lines across the AI stack
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 4 =========
+What Think41 delivers: Three service lines across the AI stack
+AI Assists
+AI FOR
+KNOWLEDGE
+WORKERS
+Transform how teams think, decide, and operate with AI
+Drive org-wide AI adoption with change management
+Redesign workflows for AI-native operations
+Decisions at 10x speed
+AI Accelerates
+Build cycles cut 40%+
+AI with Autonomy
+AGENTIC AI
+SYSTEMS
+Build agents that execute full business workflows
+Automate complex operations end-to-end
+Multi-agent orchestration at enterprise scale
+Operations on autopilot
+03
+MODERNIZATION &
+HARNESS ENGINEERING
+Modernize legacy applications into AI Native Applications
+Improve engineering velocity with AI-assisted development workflows
+Support real-world transformations across stacks (e.g.platform rebuilds with AI Features)
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 5 =========
+AI Assists
+AI FOR
+KNOWLEDGE
+WORKERS
+Help enterprises adopt AI
+Connector development on top of Enterprise AI
+Bring in enterprise context, safeguards, and policies
+Building Custom skills for business workflows
+Evals and observability for business AI workflows
+Training and change management
+AI copilot with custom skills and integrations accelerates lifecycle change engineering by 50%
+Built the Life Cycle Engineering Copilot for Philips' MRI division, an agentic AI that helps engineers assess impact, draft documentation, and coordinate reviewers across PLM and QMS systems. Cut lifecycle change engineering timelines from weeks to days.
+04
+AI Contract Intelligence reduces review time from hours to minutes
+Built a Document AI layer within SpotDraft’s contract management platform to automate end-to-end contract processing—from ingestion and classification to clause extraction, validation, and Q&A. Legal teams define rules, and the system flags only non-compliant contracts for review. The
+AI Query Platform cuts portfolio research time from hours to minutes for Fireside Ventures
+Built an AI Query Platform for giving their investment team a single conversational interface to query across Box documents, financial models, vendor databases, and legal agreements. What used to take hours of manual searching now takes seconds
+.
+Knowledge worker workflows automated in weeks, not quarters
+A Fortune 500 MedTech OEM
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 6 =========
+AI Assists
+AI FOR
+KNOWLEDGE
+WORKERS
+Transform how teams think, decide, and operate with AI
+Drive org-wide AI adoption with change management
+Redesign workflows for AI-native operations
+Decisions at 10x speed
+AI Accelerates
+MODERNIZATION &
+HARNESS ENGINEERING
+Build cycles cut 40%+
+AI with Autonomy
+AGENTIC AI
+SYSTEMS
+Build agents that execute full business workflows
+Automate complex operations end-to-end
+Multi-agent orchestration at enterprise scale
+Operations on autopilot
+05
+Modernize legacy applications into AI Native Applications
+Improve engineering velocity with AI-assisted development workflows
+Support real-world transformations across stacks (e.g.platform rebuilds with AI Features)
+What Think41 delivers: Three service lines across the AI stack
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 7 =========
+AI Accelerates
+MODERNIZATION &
+HARNESS ENGINEERING
+Embed AI platforms into Product and Engineering Applications
+Context management, Integrations and MCP integrations
+Set up best practices and workshops for coding with AI tools
+Harness engineering for Coding workflows
+Agent skills development for coding environments
+Digital Transformation and Modernization of legacy systems accelerates operations for Entero
+Modernized Entero’s legacy chemist platform into a scalable, modular system, integrating seamlessly with internal ERPs, distributor systems, and third-party services. Built unified workflows across app, and WhatsApp to streamline ordering, inventory visibility, and customer interactions.
+Deep integrations across enterprise tools unlock AI-powered ITSM automation at 65%+ resolution rates
+Connected Atomicwork's platform across Slack, Jira Service Management, Power BI, Workday via MCPs, APIs, and tool-to-tool integrations , giving their ITSM agents the context to resolve tickets autonomously across the enterprise stack.
+AI-powered integrations and data pipelines streamline legal workflows for Harvey
+Built bi-directional integrations between the Harvey platform and external legal systems such as Aderant, enabling seamless data exchange for legal billing and e-billing workflows. In parallel, developed robust data engineering pipelines to ensure structured, reliable data flow across systems.
+06
+Voice AI Enabled
+Voice AI Enabled
+AI embedded into engineering and product delivery pipelines
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 8 =========
+AI Assists
+AI FOR
+KNOWLEDGE
+WORKERS
+Transform how teams think, decide, and operate with AI
+Drive org-wide AI adoption with change management
+Redesign workflows for AI-native operations
+Decisions at 10x speed
+AI Accelerates
+MODERNIZATION &
+HARNESS ENGINEERING
+Build cycles cut 40%+
+AI with Autonomy
+AGENTIC AI
+SYSTEMS
+Build agents that execute full business workflows
+Automate complex operations end-to-end
+Multi-agent orchestration at enterprise scale
+Operations on autopilot
+07
+Modernize legacy applications into AI Native Applications
+Improve engineering velocity with AI-assisted development workflows
+Support real-world transformations across stacks (e.g.platform rebuilds with AI Features)
+What Think41 delivers: Three service lines across the AI stack
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 9 =========
+AI with Autonomy
+AGENTIC AI
+SYSTEMS
+Deep experience with latest LLMs and reasoning models
+Speech and voice generation models
+MCPs, Responses API and function calling
+Observability and evals for AI systems
+Harness engineering for product development
+Agentic Platforms
+TOP-5 GLOBAL
+BANK
+~40% faster client request turnaround with production-grade agentic voice system
+Built and deployed voice-based multi-agent orchestration with GenUI in a regulated banking environment. Includes voice SDK, SIP integration, compliance guardrails, and agentic test bed.
+CXOs now get instant, explainable sales insights via natural language queries
+Agentic analytics platform using BigQuery, custom agents, and knowledge graph. Executives ask questions in plain language and receive structured, causal breakdowns.
+Agentic voice AI navigates Honeywell's Customer Life Safety Solutions platform end-to-end, targeting 35% L1 Support query deflection
+Built a voice-based AI operator agent that understands and navigates the CLSS platform like a trained support rep, fielding queries, guiding users, and resolving issues autonomously. Currently in pre-production, expected to cut L1 support volume by 35%.
+08
+Voice AI Enabled
+Voice AI Enabled
+Production agentic systems running in regulated, high-scale environments
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 10 =========
+Opportunities for Generative AI across Manufacturing Value Chain [ 1 of 3 ]
+01
+- Primary Start Point
+- Industry Proven but not first
+- Fit for Pilot later
+
+========= SLIDE 11 =========
+Opportunities for Generative AI across Manufacturing Value Chain
+[ 2 of 3 ]
+02
+- Primary Start Point
+- Industry Proven but not first
+- Fit for Pilot later
+
+========= SLIDE 12 =========
+Opportunities for Generative AI across manufacturing Value Chain
+[ 3 of 3 ]
+03
+- Primary Start Point
+- Industry Proven but not first
+- Fit for Pilot later
+
+========= SLIDE 13 =========
+Think41 has deployed AI agents across
+woork
+PROBLEM
+SOLUTION
+OUTCOME
+work
+PROBLEM
+SOLUTION
+OUTCOME
+Client 3
+work
+PROBLEM
+SOLUTION
+OUTCOME
+10
+Who We Are
+Client Priorities
+Our Offerings
+Track Record
+Engagement Models
+Team
+Client 2
+Client 2
+
+========= SLIDE 14 =========
+Three engagement models, matched to where you are
+MODELS
+MANAGED DELIVERY
+Best Suited for
+Commercial Model
+Way of Working
+Outcome Oriented
+(Story Points and Success Fee)
+Monthly billing on agreed rate card
+Monthly billing on agreed rate card
+& Transition Fee
+CO-DEVELOPMENT
+ACCELERATE (Right To Hire
+)
+Well-defined projects, predictable timelines, resource efficiency
+Product evolution, exploratory initiatives, hands-on collaboration
+Long-term capability building, reducing hiring risk, scaling AI teams
+Think41 takes
+full responsibility for delivery
+, end to end. You define the goal, we handle the execution with minimal overhead on your side.
+A dedicated Think41 pod
+embeds with your team, sharing ownership of planning and delivery. We move at your pace, adapt to shifting priorities, and iterate as you learn.
+Our engineers work embedded with you, with an
+option to convert them to your payroll
+after a lock-in period. You get proven talent who already know your systems.
+We own it. You get outcomes
+Your team + ours, building together
+Build capability, then make it yours
+11
+Who We Are
+Client Priorities
+Our Offerings
+Track Record
+Engagement Models
+Team
+
+========= SLIDE 15 =========
+Context
+03
+Think41
+
+========= SLIDE 16 =========
+Strategic + Execution Partnership: Think41
+02
+Client
+Think41
+AI-native engineering firm building enterprise-grade AI systems, founded by the team that scaled HashedIn from ~600 employees at acquisition to 3,500+ within Deloitte.
+Role in this engagement:
+Platform architecture and engineering
+Application development and integration
+Full-stack delivery and hypercare
+This initiative is delivered through a tightly integrated partnership combining strategic advisory and AI-native execution.
+Think41
+
+========= SLIDE 17 =========
+Our Understanding of the problem
+03
+1 liner on problem
+Think41
+
+========= SLIDE 18 =========
+Solution
+04
+Field Sales Productivity for Scale
+Think41
+
+========= SLIDE 19 =========
+Technical Architecture
+(Preliminary)
+05
+Think41
+Design Principles:
+Offline-first sync | Horizontal scalability to 5,000+ users | Multi-tenant ready | Modular microservices
+
+========= SLIDE 20 =========
+05
+End to End Product Development Roadmap
+Phase 1
+Product Definition &
+Blueprint
+8 Weeks
+7
+Member Team
+Focus:
+Translate the defined problem into a complete, build-ready product and system blueprint
+Key Activities
+Detailed user stories, workflows, and acceptance criteria
+End-to-end UI/UX for mobile app and web platform
+Architecture design and system integrations
+Tech debt assessment and dependency mapping
+Infra, environments, and cloud planning
+Stakeholder workshops, POCs, interviews, and validation
+Outputs
+Product Requirements Document (PRD)
+Prioritized backlog and workflows
+UI/UX designs (mobile + web)
+Architecture and integration diagrams
+Infrastructure and environment plan
+Execution roadmap
+Phase 2
+Full-Scale Development
+& Testing
+10
+- 14 Weeks
+9
+-Member Delivery Pod
+Focus:
+End-to-end application development, integration, and validation
+through
+Bi-weekly Sprints
+Key Activities
+Frontend development (mobile + web)
+Backend services, APIs, and database design
+Integration with internal/external systems
+Continuous testing (QA, automation, performance)
+Sprint-based delivery with regular demos
+User Acceptance Testing (UAT)
+Outputs
+Fully functional production-grade application
+Tested features across platforms
+QA reports and UAT sign-offs
+Deployment-ready system
+Phase 3
+Hypercare & Change Management
+4
+-
+8
+Weeks
+9
+-Member Del
+ivery
+Pod
+Focus:
+Stabilization, adoption, and seamless transition to business-as-usual
+Key Activities
+Production monitoring and rapid issue resolution
+Performance tuning and optimization
+User onboarding, training, and documentation
+Feedback capture and iterative improvements
+Change management and stakeholder alignment
+Outputs
+Stable, high-performing live system
+Trained users and adoption enablement
+Performance and usage insights
+Continuous improvement backlog
+Think41
+
+========= SLIDE 21 =========
+Phase wise Team structure
+05
+Clear Ownership across strategy, delivery and oversight
+Solution Pod - Phase 1
+Delivery Pod - Phase 2 & 3
+Think41
+Engagement Manager
+Consultant
+Engineering Manager
+Product Owner
+Full Stack Engineer
+UX Designers (2)
+7 members
+9
+members
+Engagement Manager
+Consultant
+Engineering Manager
+Product Owner
+Sr. Full Stack Engineer
+Full Stack Engineers (3)
+Testing Engineer
+Notes:
+1. Final delivery pod structure will be defined during the Product Definition phase in alignment with the PRD
+2. Team size will be optimized during the hypercare phase based on actual support needs.
+
+========= SLIDE 22 =========
+Structured Work Plan
+05
+Think41
+Indicative sprint-based plan from discovery to production rollout
+Stages
+W1-3
+W4-6
+W7-9
+W10-12
+W13-15
+W16-18
+W19-21
+W22-24
+W25-27
+W28-30
+PHASE 1: PRODUCT DEFINITION (8 Weeks)
+PHASE 2: DEVELOPMENT (10 - 14 Weeks)
+HYPERCARE (4 - 8 Weeks)
+Stakeholder Interviews
+& Pain Point Mapping
+Workshops with field ops,
+sales leadership, IT team
+Requirements & Scope
+Definition
+User stories,
+PRD
+UI/UX Design
+(Mobile + Web)
+Wireframes, prototypes,
+design system
+Solution Architecture
+& Blueprint
+Architecture, hosting, integration map
+Frontend Development
+(Mobile + Web)
+Mobile Application
++
+Web Application
+Backend Services,
+APIs & Database
+Core backend, integrations, data layer
+Integration Testing
+& UAT
+User Acceptance Testing
+Go-Live, Hypercare
+& Change Mgmt
+Rollout, monitoring, Bug Fixes
+training, handoff
+
+========= SLIDE 23 =========
+Governance Framework: Swift Execution and Timely Escalation
+05
+Think41
+Expert-backed, tiered governance model ensuring accountability, speed, and alignment
+Steering Committee
+Frequency : Monthly
+Provide strategic direction and guide progress
+Approve key deliverables and take go/no-go decisions
+Escalation and resolution of blockers
+Stakeholders
+Think41 : Partner, Director, Engagement Manager, Engineering Manager and Consultant
+Output: Strategic direction, milestone approvals, escalation resolution
+Project Leadership
+Sprint demos, sign-offs, and backlog prioritization
+Risk mitigation and course correction
+Cross-functional coordination
+Stakeholders
+Think41 : Director, Engagement Manager, Engineering Manager, Consultant and Product Owner
+Output: Sprint velocity, demo feedback, backlog reprioritization
+Project Team
+Daily standups, task tracking, blockers
+Code reviews, testing, and QA
+Continuous integration and deployment
+Stakeholders
+Think41 : Entire Delivery Pod
+Output: Working software increments, bug fixes, daily progress
+Frequency :
+Bi-Weekly
+Frequency :
+Daily
+
+========= SLIDE 24 =========
+Investment Summary
+05
+For the engagement of 22 - 30 weeks, we are proposing the following team and fee structure
+Think41
+Phase
+Pod
+Duration
+Estimate
+1. Product Definition & Blueprint
+Solution Pod (7 member team)
+8
+Weeks
+₹
+XXXXX
+2. Full-Scale Development & Testing
+Delivery Pod (9 member team)
+10
+- 1
+4
+Weeks
+₹ XXXXX
+3.
+Hypercare and Change Management
+Delivery Pod (9 member team)
+4 - 8 Weeks
+₹ XXXXX
+Total Estimated Range:
+₹
+₹ XXXXX
+Scope:
+Estimates assume standard scope defined during Discovery. Scope changes will be mutually agreed with revised estimates.
+Infrastructure:
+Cloud infrastructure costs (AWS/GCP) are separate and will be estimated during Discovery.
+Travel:
+Travel costs, if any, will be charged on actuals after alignment.
+
+========= SLIDE 25 =========
+Agile PODs
+Level 0
+PRODUCTIVITY
+Level 1
+Level 2
+Level 3
+RISK
+f
+{
+impact, productivity, quality, autonomy
+}
+AGILE
+IN OUR
+DNA
+Deploy Agile Pods
+Deliver Outcomes with Embedded Agile Pods
+POD #2
+DEV
+DEV
+DEV
+TL
+TA
+UX
+AI
+UI
+CORE TEAM
+POD #1
+DEV
+DEV
+TL
+QC
+UI
+AI
+UX
+TA
+POD #3
+DEV
+DEV
+DEV
+TL
+TA
+UX
+AI
+UI
+MITOSIS
+MITOSIS
+f
+{
+impact, productivity, quality, autonomy
+}
+11
+Full onboarding & team works onsite for client
+Technical workshops by Think41 founders
+SLA-backed delivery with clear metrics
+Ongoing support for performance tuning and tech mentorship
+Governed SLA framework for attrition, replacement, and performance to ensure continuity and quality
+Agile team with blended skills. Sized as per requirement
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 26 =========
+Agile team with blended skills. Sized as per requirement
+Self organized to meet creative and production goals, make tech decisions and reduce risk
+Fully responsible for creating solutions, building and sustaining features, products or platforms
+Agile PODs
+WHY PODs?
+Organic ecosystem to foster, realize and sustain effective delivery and innovation
+Scrum Master assisting
+Lean/Agile process and technical competencies
+Measured to evolve per client’s goals
+Designed to scale
+Level 0
+PRODUCTIVITY
+Level 1
+Level 2
+Level 3
+RISK
+f
+{
+impact, productivity, quality, autonomy
+}
+AGILE
+IN OUR
+DNA
+OUR ENGAGEMENT MODEL
+Agile PODS
+POD #2
+DEV
+DEV
+DEV
+TL
+TA
+UX
+AI
+UI
+CORE TEAM
+POD #1
+DEV
+DEV
+TL
+QC
+UI
+AI
+UX
+TA
+POD #3
+DEV
+DEV
+DEV
+TL
+TA
+UX
+AI
+UI
+MITOSIS
+MITOSIS
+f
+{
+impact, productivity, quality, autonomy
+}
+26
+8
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 27 =========
+OUR GOVERNANCE MODEL
+POD Governance
+POD STRUCTURED DEVELOPMENT TEAM + FLEXI SPECIALIST PODS
+Members:
+Project Manager, Senior Software Developer, Software Developer, Quality Analyst, other members involved in execution
+Core team stays for future development and bug fixing
+Advantages of this setup - Higher knowledge retention, no impact on business continuity, core product expertise, dedicated members
+Seamless Knowledge Transfer
+STEERING COMMITTEE
+Members:
+Crompton
+team,
+Think41
+Senior team members, Project Manager
+Responsibilities:
+Freeze requirements, Define deliverables and ensure project is progressing as per plan and timelines decided
+Meeting Outcomes form the short term roadmap for development team and lays out structure to achieve long term vision
+THINK 41
+PROPOSITION
+AGILE SQUAD-AS-A-SERVICE
+We take complete ownership of product development. This includes working across the Software Development Lifecycle from solutioning to production support.
+Set up of Steering Committee
+Dedicated team to work on the product customization
+FREQUENCY
+Meets every 2 weeks to address the concerns, finalise the priorities for the duration, and ensure adherence to timelines
+As a solution partner, we work closely with relevant stakeholders for successful execution of our engagement
+.
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 28 =========
+Our Leadership
+Harshit
+Harshit is a strategy consultant having an entrepreneurial bent. He loves challenges to incubate, scale up and transform enterprises.
+IIT Roorkee + ISB Hyd Alumnus
+Himanshu
+Named one of India’s Top 25 Trusted Leaders by GPTW, Himanshu has championed the Engineering culture at Deloitte.
+IIT Guwahati Alumnus.
+Sripathi
+Sri, former CTO of Modern Engineering at Deloitte US & leader of its GenAI COE, founded RDB Tools, later acquired by RedisLabs.
+Mumbai University Alumnus
+Anshuman
+Anshu loves tech & design and has built hundreds of products and driven significant growth in the past 18+ years.
+IIT BHU Alumnus
+HashedIn has been the most successful acquisition in Deloitte’s History
+- Executive, Deloitte US
+Product & Engineering Team
+Top Talents Working With You:
+Engineering Managers (Tech PMs) from premier educational institutes like IITs, NITs & IIMs are working with you to design & build GenAI solutions for your team.
+Bootcamp For GenAI Era- Boot41:
+Our engineers undergo a 3 month internship building AI mini-apps on real life problems & present it to industry experts on open day. Some of these apps have been taken into production.
+GenAI Native Talent:
+Our in house agents are seamlessly integrated into daily workflows of our engineers ensuring that our engineers become experts in leveraging GenAI tools for SDLC activities.
+The team built HashedIn, a cloud solutions company
+acquired by Deloitte US in 2021
+, then quadrupled its size in 3 years and launched a
+600+ member AI division
+12
+Deepak
+Deepak is a growth and transformation leader with over 20 years of experience across Deloitte, Gartner, and startups, specializing in strategy,alliances, and business transformation.
+National University of Singapore Alumnus
+Founded by seasoned tech leaders and entrepreneurs, Think41 brings together the maturity of an enterprise and the agility of a startup.
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+
+========= SLIDE 29 =========
+Case Study
+Case study templates, Comparative study, etc.
+
+========= SLIDE 30 =========
+Multi-source RAG with Organizational Knowledge Encoding
+RAG over curated knowledge bases; firm-specific logic encoded as agent skills
+Result
+:
+Every output reflects how your firm actually works, without months of fine-tuning.
+Live System Integration via MCP Server
+Secure, typed AI access delivers live answers from any enterprise system of record, eliminating manual lookups
+Result:
+Zero lag from change event to a full, system-sourced data picture
+Global industrial technology leader managing thousands of product lines across regulated supply chains — compliant documentation required before any supplier-initiated change
+Agentic AI
+Document Intelligence
+MedTech’s compliance documentation that took days now starts already 80% done
+SOLUTION:
+Think41's Copilot-based system ingests a SICR, maps downstream dependencies, and drafts a compliant RFS — faster, with human accountability intact
+AI FOR
+REGULATORY & COMPLIANCE DRAFTING DOCUMENTS
+Automated Impact Analysis
+Maps every downstream dependency from one upstream change, delivering a complete blast-radius report in seconds, not days.
+Intelligent First-Draft Generation
+Pulls change request, history, and impact analysis into a standardized first draft — same quality every time, regardless of who runs it
+Full blast-radius visibility in seconds
+Consistent output, every run.
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Data Engineering
+Manufacturing
+
+========= SLIDE 31 =========
+Secure Auth Token Propagation
+Auth tokens injected into backend API calls by the orchestrator; the LLM never touches credentials
+Result
+:
+Zero identity hallucinations, the agent can only access what the user is authorised to see
+Map & Load Retrieval — No Vector Database
+Master index identifies the right document and loads it whole; no chunking
+Result:
+Full document context, deterministic retrieval, zero vector DB overhead
+A global industrial safety technology leader — supporting a large user base with complex, account-specific queries.
+Agentic AI
+Enterprise Knowledge
+Global Industrials major - Most AI assistants hallucinate user data. This one is architecturally incapable of it
+SOLUTION:
+Think41 swapped RAG for agentic retrieval — a master index loads whole documents, while private data routes through credentialed tool calls with auth tokens injected by the orchestrator
+AI FOR
+ACCURATE, PERSONALISED PLATFORM SUPPORT
+Zero Ongoing Maintenance for the Knowledge Base
+Product documentation goes live the moment it's updated — no retraining, no re-indexing, no pipeline to manage
+Get Answers Grounded in Your Actual Account Data
+Users get answers from their own data, not generic docs — cutting support tickets and handling time for routine queries.
+LLM Orchestration
+MD Knowledge Base
+REST APIs
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Modernization
+Manufacturing
+
+========= SLIDE 32 =========
+Multi-Model Routing
+Queries routed to the best-fit LLM by task type; knowledge search handled by a dedicated sub-agent
+Result
+:
+Higher response quality per task type without over-engineering a single model
+Multi-Modal Context Engine
+Chrome extension reads the active screen; voice captures intent. Both feed the agent together.
+Result:
+Users get instructions matched to exactly what's on their screen
+An AI-native ITSM platform enabling employees to resolve IT issues and request access directly from Slack, without navigating a portal.
+Agentic AI
+ITSM
+AI Native ITSM unicorn - 500 employees resolving their own IT issues in Slack
+SOLUTION:
+Think41 built the Universal AI Agent from proof-of-concept to production, integrating screen awareness, voice interaction, and natural language ticketing into the core platform
+AI FOR
+UNIVERSAL IT SERVICE MANAGEMENT
+Instant Answers, No Human in the Loop
+A dedicated knowledge sub-agent handles software usage questions autonomously. IT teams stop fielding repetitive queries; employees stop waiting
+Tickets Created Without a Form
+Employees describe the problem in Slack. The agent structures it into a ticket and routes it — IT gets clean, actionable requests within minutes.
+500+ daily active users in production
+Zero-portal resolution for IT issue via Slack
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Integrations
+Deep Tech
+
+========= SLIDE 33 =========
+Multi-Agent Orchestration → Feedback Loop
+A quiz submission fans out in parallel — mastery vector, session graph, and problem queue all updated before the next interaction
+Result
+:
+Smarter tutor responses
+Context Engineering → AI Tutor
+A compression layer builds a structured prompt payload from the session graph, so Gemini receives a typed learner profile
+Result:
+Responses calibrated to exactly where the learner is
+An
+established edtech company found learning Physics is sequential, missed lessons compound, and its taught in a “one size fits all” manner currently.
+Agentic AI
+ITSM
+A
+Global Edtech company, trusted globally required a system which addressed any student’s hurdles dynamically
+SOLUTION:
+Think41 built
+Seek Capacity
+, an agentic AI learning platform for physics having five coordinated capabilities replace the passive video library with an adaptive, experiential learning environment, co-developed with Harvard faculty
+AI FOR
+PERSONALIZED EDTECH PLATFORM
+AI Tutor for Learners
+Like a teacher who's been paying attention it knows the hurdles of each user and addresses them to help them build intuition instead of memorizing
+Progress Tracker for Institutions
+This made the learning outcomes visible. With it, educators can act on data, and institutions can justify adoption with evidence
+Co-developed with Harvard faculty
+Trusted by 10k+ university students globally
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Integrations
+Deep Tech
+
+========= SLIDE 34 =========
+Validation Before Execution
+Four validation gates; plan logic, SQL syntax, data values, KPI rules, run before BigQuery is called. Failures retry up to 3 times with targeted feedback
+Result
+:
+~35% reduction in BigQuery costs
+Multi-Agent Scratchpad Architecture
+Shared PostgreSQL state and strict sequencing keep eight agents coordinated and race-condition-free
+Result:
+Every transaction is fully auditable and replayable
+A global fashion retailer, where SQL skill gaps created a bottleneck between analysts and their data.
+Agentic AI
+Analytics Tech
+Complex data queries used to take 2–3 hours. Now they take seconds, in plain English
+SOLUTION:
+Think41 built an eight-agent pipeline that converts plain-English analyst questions into validated BigQuery Four sequential validation gates catch errors before any query reaches BigQuery.
+AI FOR
+SELF-SERVICE ANALYTICS
+Real-Time Streaming Progress
+Each agent step streams live — plan, validate, execute, summarize. Analysts follow the logic in real time, so adoption isn't a leap of faith
+Business Language Resolution
+Business shorthand, alternate names, and typos are all auto-resolved — time period errors and bad filters never reach the query
+From 2-3 hours of complex SQL query to seconds
+35% BigQuery cost reduction
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Data Engineering
+E-commerce
+
+========= SLIDE 35 =========
+EDCODE-Based MDM Integration
+A shared identifier (EDCODE) bridges stockist inventory with master product data
+Result
+:
+Consistent product metadata and substitute suggestions across all stockists
+Dual Backend, Independent Scaling
+Chemist app and PWA run on separate backends — each scales and deploys independently
+Result:
+No single point of failure across user types
+Large pharmaceutical distributor with a network of 30,000–40,000 chemists across India.
+Agentic AI
+PWA
+India’s leading pharma distributor - One QR code turns every chemist into an instant e-commerce store for 8 million patients
+SOLUTION:
+Think41 built a dual-app commerce platform connecting chemists and end-users through a shared inventory and promotions layer
+AI FOR
+PHARMACY DISTRIBUTION & CHEMIST COMMERCE
+QR-Scannable Storefront for Every Chemist
+Each chemist gets an installable PWA their customers can scan and shop from, so chemists acquire digital customers seamlessly
+Campaign Management for Admins
+Admins create and configure promotions with custom redemption rules, so offer rollouts that used to require per-stockist coordination now deploy in minutes
+Playwright E2E + CSV audit trails
+Structured wallet incentivizes on-time invoice payments
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Integrations
+Healthcare
+
+========= SLIDE 36 =========
+Offline Subtask Precomputation
+Subtasks precomputed offline; runtime only runs inference
+Result
+:
+Eliminated timeouts and made verification reliably fast at scale
+Playbook-Based Subtask Verification
+Playbook split into guidelines and subtasks — each verified against the contract independently
+Result:
+Accuracy improved from ~70% to 82–85%
+Legal and procurement teams manually reviewing Word contracts against internal playbooks — slow, inconsistent, and error-prone at scale.
+Agentic AI
+Legal Tech
+Contract review went from a multi-tool marathon to a single click in Word
+SOLUTION:
+Think41 built VerifAI to replace manual contract review. It checks every paragraph against a legal playbook, flags non-compliant clauses, and writes the fix — applied in one click inside Word
+AI FOR
+CONTRACT REVIEW & LEGAL COMPLIANCE
+Know Exactly What's Wrong and Where
+Every flagged clause is tied to a specific paragraph ID, the failed guideline, and the non-compliant text. Reviewers don't hunt — they act
+Reviews Don't Stall Mid-Contract
+Subtasks are precomputed offline so runtime only runs inference. Legal teams get complete, uninterrupted reviews
+Accuracy lifted from ~70% to 82–85%
+Review workflow completed inside Word
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Testing Automation
+Legal & Compliance Tech
+
+========= SLIDE 37 =========
+Zero-Secret Webhook Egress via Apigee KVM
+Partner credentials stored only in Apigee's Encrypted KVM; decrypted for milliseconds at delivery, never written to the Marketplace database
+Result
+:
+PCI/SOC2 exposure eliminated, no third-party secrets in internal systems
+Headless Marketplace with Licence-Gated Access
+Custom portal, decoupled from Apigee. Azure B2C licence claims drive API visibility dynamically
+Result:
+Custom UX with no extra hassle
+A global industrial safety technology leader, managing secure API access for enterprise partners.
+Enterprise Platform
+API Management
+Enterprise API access without the wait — self-serve, secure, and always current
+SOLUTION:
+Think41 built a headless API marketplace on Apigee — adding licence-gated access, self-service credentials, secure webhooks, and automated docs the default portal can't deliver.
+AI FOR
+SELF-SERVICE API ACCESS AT ENTERPRISE SCALE
+Enterprise-Grade Security Without Slowing Integrations Down
+Two auth options let partners integrate on their own security terms. Gateway-layer validation keeps credentials out of app code entirely
+API Documentation Is Always Current, Automatically
+One Git push deploys to Apigee and publishes live docs in the same step, so partners always integrate against accurate specs
+Apigee X
+OAuth 2.0
+FastAPI
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Integrations
+Manufacturing
+
+========= SLIDE 38 =========
+Tiered LLM Architecture
+Routine retrieval runs on lightweight models; complex legal reasoning escalates to larger ones, cost and latency stay proportional to the task.
+Result
+:
+Accurate outputs at lower cost
+Clause Extraction & Normalization
+Key terms extracted from SHA, SSA, employment, and LP agreements — normalized to a common schema for comparison.
+Result:
+Cross-document comparison done in seconds
+VC firm managing 200+ vendor relationships, multi-type legal agreements, and portfolio data — all locked in Box spreadsheets and documents.
+Legal AI
+200+ vendors, 15+ legal agreements, endless spreadsheets — now one conversation
+SOLUTION
+:
+Think41 built a unified GenAI platform that lets the entire team query documents, vendor data, and legal clauses in plain language — without opening a single file
+AI FOR
+INVESTMENT DOCUMENT INTELLIGENCE
+MIS Excel Querying over Box
+Natural language interface over portfolio metrics, MIS data, and financial benchmarks stored in Box, meaning we get answers in 1 query instead of 10 steps
+Unified Dashboard
+Four data sources, one interface, with access scoped by role. Associates, VPs, Partners, Finance, and Legal each see what they're meant to
+Answers that took hours, take seconds
+Unified queryable view with sourced results
+Document Intelligence
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Data Engineering
+BFSI
+
+========= SLIDE 39 =========
+LLM-Powered Post-Call Analysis & Action Planning
+NLP extracts key decisions, sentiment trajectory, and upsell signals; converted into a dated, editable action plan
+Result
+:
+Every call ends with a structured plan
+Compliance-Gated Keyword-Driven Intent Recognition
+Live audio matched to product parameters via CAI platform; each suggestion validated against regulatory policy before surfacing
+Result:
+Relevant, policy-safe suggestions delivered in real time
+Leading global financial services company with a large RM workforce across wealth management and retail banking
+Agentic AI
+Financial Services
+Live call. Live intent. Live recommendation. Zero prep work required
+SOLUTION
+:
+Built on the CAI platform, Agent Assist supports RMs across the full call lifecycle: real-time policy-validated product recommendations during the call, automated post-call intelligence, and a structured action plan generated without any manual input.
+AI FOR
+REAL-TIME SALES INTELLIGENCE & COMPLIANCE
+Turn Every Call Into a Structured Follow-Up — Instantly
+The system auto-generates minutes, sentiment scores, and a dated action plan on call end. RMs go from call to next action in seconds, not hours.
+Compliance Built Into the Recommendation Layer
+Every product suggestion is policy-validated before it reaches the RM — removing manual cross-checks and eliminating the risk of a non-compliant pitch mid-call
+Productivity gains from hours to seconds
+CAI Platform
+Eliminates risk of a non-compliant pitch mid-call
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Data Engineering
+BFSI
+
+========= SLIDE 40 =========
+Zero Backend Changes — Additive Integration
+One React Native codebase across all platforms; thin integration layer via Blob Storage and SignalR, no changes to existing backend
+Result
+:
+Full cross-platform coverage without touching production infrastructure
+Offline-First SQLite Core
+Encrypted on-device, SQLite stores full event history and floorplan data locally; state reconciles with the server on reconnect
+Result:
+Monitoring stays live even when the network doesn't
+Global leader in industrial safety technology, deployed across commercial buildings, healthcare facilities, and industrial sites worldwide.
+Agentic AI
+Compliance Tech
+Alerts used to require a Windows workstation. Now they follow you
+SOLUTION:
+Think41 extended the existing platform to mobile without touching any existing infrastructure. Encrypted on-device SQLite stores full event history and floorplan data locally, reconciling with the server on reconnect. One React Native codebase covers all platforms via a thin integration layer.
+AI FOR
+ROUND THE CLOCK RISK & COMPLIANCE MONITORING
+Respond to Alerts From Anywhere, Not Just the Operations Center
+Alarms, floorplans, and event history accessible from any device — critical alerts actioned in minutes, not hours.
+Mobile Deployment Without Compliance Risk
+Mobile access with no new compliance surface — encryption, role-based access, and audit logging enforced across every device
+Response time reduced to minutes from hours
+Every new device added, fully compliant from day one
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+DevOps
+Manufacturing
+
+========= SLIDE 41 =========
+AI Image Analysis Pipeline
+Photos runs through a 5-agent async pipeline — image classification, plate extraction, and odometer reading, queue-backed with no dealer input
+Result
+:
+Full vehicle photo processing with zero dealer input
+Real-Time Voice Pipeline
+WebSocket-based voice pipeline with bilingual STT and TTS. Language is detected automatically
+Result:
+95% of all conversational turns are completed in under 2 seconds
+A diversified Indian conglomerate with 40+ years across industrial sectors, making its first move into AI-native consumer tech
+Voice AI
+Agentic AI
+Say "Honda City under 5 lakhs" in Hindi, and the car finds you
+SOLUTION:
+Think41 built Vyngo end-to-end — an AI-powered dealer app that turns a photo into a listing, and a voice-first buyer platform that turns a conversation into a match
+AI FOR
+Voice-First Used Vehicle Marketplace
+Security & PII Handling
+User credentials are encrypted and single-use. Personal data is never exposed to AI models and stays within India's borders leading to lower risk of regulatory action
+Hybrid Search — Typesense + ChromaDB RAG
+Within the same conversation one search layer is for finding vehicles, another for answering buyer questions. Buyers get results in one interaction reducing drop-off.
+Multi hour search reduced to 5 minute conversation
+1,000+ concurrent sessions supported.
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Integrations
+Automotive & Mobility
+
+========= SLIDE 42 =========
+Case Study by Ind
+ustry
+Case study templates, Comparative study, etc.
+
+========= SLIDE 43 =========
+Work with Clients in BFSI
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+JPMC's legacy mortgage operations platform couldn't scale to handle transaction volumes and compliance requirements, with manual servicing workflows creating processing delays.
+Modernized to microservices with automated workflows and real-time data pipelines
+Streamlined compliance reporting with automated audit trails
+Wealth advisors accessed client data and portfolio insights across disconnected systems, slowing onboarding and reducing recommendation quality.
+Unified wealth management, portfolio, and market intelligence into a single dashboard
+Automated portfolio analytics and market insights for advisors
+Manual extraction and analysis of investment documents—prospectuses, fact sheets, regulatory filings—was time-consuming and error-prone, limiting deal processing at scale.
+Built NLP and ML-powered platform for automatic document extraction and indexing
+Enabled rapid querying and comparison of investment opportunities
+Mastercard needed real-time visibility into transactions and compliance violations across its network, but legacy reporting systems couldn't scale to deliver near-instantaneous insights.
+Built real-time analytics platform ingesting transaction and merchant data streams
+Integrated ML-based anomaly detection for violations and transaction patterns
+Impact delivered
+40% faster loan processing (from 8 days to 5 days)
+65% reduction in manual compliance effort
+Reduced advisor onboarding time from 4 weeks to 10 days
+Increased recommendation relevance by 35%
+70% faster document processing
+Enabled 3x deal volume processing per analyst without additional headcount
+Reduced violation detection lag from 24 hrs to 5 mins
+Provided real-time visibility into 100% of merchant risk assessment flows
+
+========= SLIDE 44 =========
+Work with Clients in Manufacturing
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+Philips' regulatory and compliance teams spent significant time manually drafting and reviewing documentation for medical device submissions and regulatory filings, creating delays and inconsistency across documents.
+Built NLP-powered platform to automate regulatory document drafting and clause generation
+Integrated compliance knowledge base with AI-assisted content validation
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+55% faster regulatory document preparation
+Reduced compliance documentation errors by 80%
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
+
+========= SLIDE 45 =========
+Work with Clients in Deep Tech
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+Atomicwork's IT service management platform had fragmented integrations with enterprise tools, forcing IT teams to switch between multiple systems and manually sync data across ticketing, asset management, and knowledge repositories.
+Built unified integration layer connecting IT service management with enterprise tools and data sources
+Automated cross-system data synchronization and workflow orchestration
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+Reduced IT ticket resolution time by 35%
+Eliminated 60% of manual data entry across IT operations
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
+
+========= SLIDE 46 =========
+Work with Clients in E-commerce
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+H&M's business teams lacked direct access to actionable sales and inventory analytics, depending on BI team queries that took days to deliver, slowing decision-making across stores and supply chain.
+Built self-service analytics platform with pre-built dashboards for store performance, inventory, and sales trends
+Integrated real-time data pipelines with role-based access controls
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+Reduced reporting time from 3 days to real-time insights
+Enabled store managers to make inventory decisions 2x faster
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
+
+========= SLIDE 47 =========
+Work with Clients in Healthcare
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+Entero's pharmacy distribution network operated across disconnected ordering, inventory, and logistics systems, leading to stockouts, delayed deliveries, and poor visibility into supply chain health across chemist partners.
+Integrated pharmacy distribution systems with real-time inventory and logistics platforms
+Built partner portal for order management and delivery visibility
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+Reduced stockout incidents by 70%
+Improved delivery timeliness from 85% to 96%
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
+
+========= SLIDE 48 =========
+Work with Clients in Legal & Compliance Tech
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+Manual legal contract review was time-consuming and inconsistent, with lawyers spending hours identifying compliance issues and non-standard clauses across contracts, creating bottlenecks in deal closures.
+Built automated contract review engine with ML-based clause detection and compliance validation
+Integrated testing framework to validate review accuracy against legal standards
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+Reduced contract review time from 4 hours to 20 minutes per document
+Improved clause detection accuracy to 98%
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
+
+========= SLIDE 49 =========
+Work with Clients in Automotive & Mobility
+Who We Are
+Our Offerings
+Case Study
+Engagement Models
+Team
+Business Challenge
+Our Solution
+Bhoruka's used vehicle marketplace required buyers and sellers to navigate complex processes through text-based interfaces, creating friction and limiting accessibility for users in voice-first or low-connectivity environments.
+Built NLP-powered platform to automate regulatory document drafting and clause generation
+Integrated compliance knowledge base with AI-assisted content validation
+Honeywell's customer support platform delivered generic responses, leading to low first-contact resolution rates and poor customer experience across industrial equipment users.
+Modernized support platform with ML-driven personalization engine
+Integrated customer history, equipment data, and contextual insights for tailored support responses
+Partners and internal teams struggled to integrate with Honeywell's diverse systems, requiring custom integration work and creating dependency on central IT teams for API access requests.
+Built scalable API gateway with self-service developer portal and automated provisioning
+Integrated authentication, rate limiting, and analytics for transparent API consumption
+Honeywell's risk and compliance monitoring relied on periodic batch reviews, missing emerging issues and compliance violations that occurred between reporting cycles.
+Deployed continuous monitoring infrastructure with real-time anomaly detection and alerting
+Integrated compliance rules engine with automated escalation workflows
+Impact delivered
+55% faster regulatory document preparation
+Reduced compliance documentation errors by 80%
+Increased first-contact resolution rate from 45% to 68%
+Reduced average resolution time by 40%
+Reduced API integration time from 8 to 2 weeks per partner
+Enabled 5x increase in partner integrations without additional engineering overhead
+Reduced risk detection lag from 24 hours to 15 minutes
+Achieved 99.5% uptime for compliance monitoring with proactive issue remediation
